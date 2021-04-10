@@ -12,7 +12,7 @@ IMAGE_OVERRIDE = False # "test.png" # False
 MESSAGE_OVERRIDE = False # "The quick brown fox jumps over a lazy dog."
 ENCODE_OVERRIDE = False # True - forces encode. False - gives you an option.
 OUTPUT_OVERRIDE = False # yeah
-PASSWORD_OVERRIDE = False # "69420"
+PASSWORD_OVERRIDE = False 
 
 def getBlackPixelsListFromImage(img):
     """
